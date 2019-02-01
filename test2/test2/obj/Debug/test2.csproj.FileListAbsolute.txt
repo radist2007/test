@@ -1,0 +1,8 @@
+D:\test2\test2\test2\bin\Debug\test2.exe.config
+D:\test2\test2\test2\bin\Debug\test2.exe
+D:\test2\test2\test2\bin\Debug\test2.pdb
+D:\test2\test2\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+D:\test2\test2\test2\obj\Debug\test2.MainForm.resources
+D:\test2\test2\test2\obj\Debug\test2.csproj.GenerateResource.Cache
+D:\test2\test2\test2\obj\Debug\test2.exe
+D:\test2\test2\test2\obj\Debug\test2.pdb
